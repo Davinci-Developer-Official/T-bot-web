@@ -7,6 +7,7 @@ import logo from "@/public/logo.png"
 // import Subscription from "./subscriptions/page"
 
 export default function Home() {
+  
   const[user,setUser]=useState("")
   useMemo(()=>{
     console.log("system working")
