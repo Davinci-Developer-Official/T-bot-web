@@ -1,7 +1,7 @@
-# T Labs
+# T-Bot
 
 ## Overview
-T Labs is an innovative trading technology company focused on automating and optimizing financial trading strategies. Our flagship product, **T-Bot**, leverages AI-driven algorithms to enhance trading efficiency, minimize risks, and maximize returns for users across different experience levels.
+T-Bot is an innovative trading technology product focused on automating and optimizing financial trading strategies. Our AI-driven algorithms enhance trading efficiency, minimize risks, and maximize returns for users across different experience levels.
 
 ## Features
 - **AI-Powered Trading**: Fully automated trading with intelligent decision-making.
@@ -26,9 +26,8 @@ T Labs is an innovative trading technology company focused on automating and opt
 We prioritize data security, encryption, and compliance to ensure safe and reliable trading experiences.
 
 ## Contact Us
-For support and inquiries, reach out to **support@tlabs.com** or visit our website at **[www.tlabs.com](#)**.
+For support and inquiries, reach out to **support@tbot.com** or visit our website at **[www.tbot.com](#)**.
 
 ---
-**T Labs - Revolutionizing Trading with AI**
-
+**T-Bot - Revolutionizing Trading with AI**
 
